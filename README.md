@@ -48,5 +48,8 @@ The plot below will give you a better glimpse of the total fare by city type and
 
 # Summary
 
-I would reccommend looking further into what is causing the low driver fares in Urban areas.   
+1. I would recommend looking further into what is causing the low driver fares in Urban areas. Could it be they are taking shorter trips so the fare it’s lower.  It looks as if the area is overpopulated with drivers unlike the Rural and Suburban areas.  I would increase the drivers in the Rural area to be sure the demand is being met for this service. 
 
+2. I would put all of the drivers in one pool  in order for them to increase profit. This will even the total drivers across the board. Or assign drivers to a different city every shift to make it fair for them to make an equal amount of money.
+
+3. For the Rural area the demand does not seem high for the ride sharing services so possibly market ride sharing services more to this area or run a possible promotion to gain new customers in this area. 
